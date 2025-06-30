@@ -1,0 +1,110 @@
+[
+    {
+        "name": "The Lord of the Rings",
+        "description": "The Lord of the Rings is an epic high-fantasy novel by English author and scholar J. R. R. Tolkien. Set in Middle-earth, the story began as a sequel to Tolkien's 1937 children's book The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling books ever written, with over 150 million copies sold.",
+        "rating": 9.2,
+        "genre": "Fantasy",
+        "authors": [
+            "J.R.R. Tolkien",
+            "Christopher Tolkien",
+            "Alan Lee",
+            "John Howe"
+        ],
+        "poster": "https://m.media-amazon.com/images/I/71jLBXtWJWL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "name": "1984",
+        "description": "1984 is a dystopian social science fiction novel and cautionary tale by English writer George Orwell. It was published in June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, it centres on the consequences of totalitarianism, mass surveillance and repressive regimentation of people and behaviours within society.",
+        "rating": 8.7,
+        "genre": "Dystopian Fiction",
+        "authors": [
+            "George Orwell",
+            "Richard Blair",
+            "Sonia Orwell"
+        ],
+        "poster": "https://m.media-amazon.com/images/I/71kxa1-0mfL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "name": "The Great Gatsby",
+        "description": "The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, the novel depicts narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former lover, Daisy Buchanan.",
+        "rating": 8.5,
+        "genre": "Classic Literature",
+        "authors": [
+            "F. Scott Fitzgerald",
+            "Zelda Fitzgerald",
+            "Maxwell Perkins"
+        ],
+        "poster": "https://m.media-amazon.com/images/I/71FTb9X6wsL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "name": "To Kill a Mockingbird",
+        "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature. The plot and characters are loosely based on Lee's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936.",
+        "rating": 9.0,
+        "genre": "Classic Literature",
+        "authors": [
+            "Harper Lee",
+            "Truman Capote",
+            "Tay Hohoff"
+        ],
+        "poster": "https://m.media-amazon.com/images/I/71FxgtFKcQL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "name": "The Hobbit",
+        "description": "The Hobbit, or There and Back Again is a children's fantasy novel by English author J. R. R. Tolkien. It was published on 21 September 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize from the New York Herald Tribune for best juvenile fiction.",
+        "rating": 8.8,
+        "genre": "Fantasy",
+        "authors": [
+            "J.R.R. Tolkien",
+            "Christopher Tolkien",
+            "J.R.R. Tolkien"
+        ],
+        "poster": "https://m.media-amazon.com/images/I/710+HcoP38L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "name": "Pride and Prejudice",
+        "description": "Pride and Prejudice is a romantic novel of manners written by Jane Austen in 1813. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.",
+        "rating": 8.9,
+        "genre": "Romance",
+        "authors": [
+            "Jane Austen",
+            "Thomas Egerton",
+            "Hugh Thomson"
+        ],
+        "poster": "https://m.media-amazon.com/images/I/71Q1tPupKjL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "name": "The Catcher in the Rye",
+        "description": "The Catcher in the Rye is a novel by J. D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951. It was originally intended for adults but is often read by adolescents for its themes of angst and alienation, and as a critique on superficiality in society.",
+        "rating": 8.6,
+        "genre": "Literary Fiction",
+        "authors": [
+            "J.D. Salinger",
+            "Little, Brown and Company",
+            "Michael Mitchell"
+        ],
+        "poster": "https://m.media-amazon.com/images/I/8125BDk3l9L._SL1500_.jpg"
+    },
+    {
+        "name": "The Alchemist",
+        "description": "The Alchemist is a novel by Brazilian author Paulo Coelho that was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller. An allegorical novel, The Alchemist follows a young Andalusian shepherd in his journey to Egypt, after having a recurring dream of finding a treasure there.",
+        "rating": 8.4,
+        "genre": "Philosophical Fiction",
+        "authors": [
+            "Paulo Coelho",
+            "HarperCollins",
+            "Jim Tierney"
+        ],
+        "poster": "https://m.media-amazon.com/images/I/61OuRVln3BL._SL1360_.jpg"
+    },
+    {
+        "name": "Мистецтво навчати",
+        "description": "Книжка «Мистецтво навчати» Тоні Ваґнера й Теда Дінтерсміта — крок до якісної трансформації освіти в ХХІ столітті. Це новий погляд на систему освіти, завдяки якій діти зможуть досягти реального успіху в житті.",
+        "rating": 8.0,
+        "genre": "Загальна педагогіка",
+        "authors": [
+            "Тоні Вагнер",
+            "Тед Дінтерсміт"
+        ],
+        "poster": "https://static.yakaboo.ua/media/catalog/product/m/o/most_likely_to_succeed_front_.jpg"
+    }
+]
